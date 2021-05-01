@@ -17,7 +17,7 @@ apt install git
 
 apt install nodejs
 
-git clone https://github.com/Hamzahash/hpro.git
+git clone https://github.com/normaluserxd/abal-er-maire-xdi
 
 # How to use
 
